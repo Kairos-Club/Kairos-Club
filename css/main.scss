@@ -371,6 +371,8 @@ img {
   width: auto;
   position: fixed;
 
+  opacity: 0;
+
   display: inline-block;
   text-align: center;
 
@@ -395,29 +397,58 @@ img {
   }
 }
 
-.squeezer,
-.bigwax-io,
-.bigwax-distribution,
-.bigwax-rec {
+.avatar,
+.icon {
+
+  cursor: grab;
+
+  min-width: 60px;
+  min-height: 60px;
+
+  //outline: 2px solid blue;
+  //animation:rball 3s infinite ease-in-out;
+  position: fixed;
+  top: -100%;
+  left: -100%;
+  text-align: center;
+
+  filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, 0.3));
+
+  //transition: all 1000ms cubic-bezier(0.19, 1, 0.22, 1) 0s;
+
+  opacity: 0;
+
+  img {
+    width: 60px;
+    height: 60px;
+  }
+
+  a {
+    cursor: pointer;
+  }
+
+  p {
+    margin: 4px 0 0 0;
+    font-weight: bold;
+
+    font-size: 1em;
+    line-height: 1em;
+  }
 }
 
-.squeezer {
-  top: 25%;
-  left: 65%;
+
+.up {
+  animation:up .4s ease-in-out;
+  animation-delay: .5s;
+  animation-fill-mode: forwards;
 }
 
-.bigwax-io {
-  top: 47%;
-  left: 25%;
-}
 
-.bigwax-distribution {
-  top: 60%;
-  left: 43%;
+@-webkit-keyframes up{
+  0%{
+    opacity: 0;
+  }
+  100%{
+    opacity: 1;
+  }
 }
-
-.bigwax-rec {
-  top: 70%;
-  left: 20%;
-}
-
