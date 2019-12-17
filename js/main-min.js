@@ -1,1 +1,1 @@
-$(document).ready(function(){$(".float").jqFloat({width:300,height:300,speed:4e3})}),$(document).ready(function(){$(".bigwax img, .squeezer img").each(function(){var t=Math.floor(2*Math.random());t=0==t?-1:1;var o=Math.floor(100*Math.random()*t);$(this).css("transform","rotate("+o+"deg)"),$(this).css("-moz-transform","rotate("+o+"deg)"),$(this).css("-webkit-transform","rotate("+o+"deg)"),$(this).css("-o-transform","rotate("+o+"deg)")})});
+zIndex=100,$(".pep").pep({useCSSTranslation:!1,constrainTo:"window",initiate:function(){zIndex++,this.$el.css({zIndex:zIndex})}});
