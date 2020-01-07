@@ -471,8 +471,9 @@ img {
   animation:open-pastille .4s ease-out;
   animation-delay: 3s;
   animation-fill-mode: forwards;
-
   img {
+    width: 100%;
+    height: 100%;
     animation: rotating-pastille 4s linear infinite reverse;
   }
 
