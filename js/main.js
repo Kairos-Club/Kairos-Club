@@ -9,7 +9,7 @@ $('.pep').pep({
   }
 });
 
-$( '.hello, .avatar' ).each(function( index ) {
+$( '.icon, .avatar' ).each(function( index ) {
   $(this).css({
     left : Math.random() * ($('.main').width() - $(this).width()),
     top : Math.random() * ($('.main').height() - $(this).height())
@@ -17,7 +17,7 @@ $( '.hello, .avatar' ).each(function( index ) {
 });
 
 $(window).resize(function(){
-  $( '.hello, .avatar' ).each(function( index ) {
+  $( '.icon, .avatar' ).each(function( index ) {
     $(this).css({
       left : Math.random() * ($('.main').width() - $(this).width()),
       top : Math.random() * ($('.main').height() - $(this).height())

@@ -367,35 +367,6 @@ img {
 }
 
 
-.hello {
-  width: auto;
-  position: fixed;
-
-  opacity: 0;
-
-  display: inline-block;
-  text-align: center;
-
-  z-index: 1;
-
-  filter: drop-shadow(0px 0px 2px rgba(0, 0, 0, 0.3));
-
-  img {
-    width: 100px;
-  }
-
-  p {
-    width: 100%;
-    margin: 3px 0 0 0;
-    font-size: 1em;
-    line-height: 1;
-  }
-
-  a:hover {
-    text-decoration: underline;
-    cursor: pointer;
-  }
-}
 
 .avatar,
 .icon {
@@ -420,7 +391,6 @@ img {
 
   img {
     width: 60px;
-    height: 60px;
   }
 
   a {
@@ -433,6 +403,10 @@ img {
 
     font-size: 1em;
     line-height: 1em;
+  }
+  a:hover {
+    text-decoration: underline;
+    cursor: pointer;
   }
 }
 

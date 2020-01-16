@@ -900,6 +900,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/icone/lelp-hd.png": {
+		"ft": 32768,
+		"iS": 14558,
+		"oA": 0,
+		"oAP": "/icone/lelp-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/lelp.png": {
+		"ft": 32768,
+		"iS": 1553,
+		"oA": 0,
+		"oAP": "/icone/lelp.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icone/squeezer-gsuite-hd.png": {
 		"ft": 32768,
 		"iS": 10134,
