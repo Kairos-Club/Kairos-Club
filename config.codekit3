@@ -987,6 +987,17 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"/siteicon.png": {
+		"ft": 32768,
+		"iS": 15917,
+		"oA": 0,
+		"oAP": "/siteicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		}
 	},
 "hooks": [
