@@ -467,3 +467,28 @@ img {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+
+@media (prefers-color-scheme: dark) {
+
+  html, body {
+    background-color: #00F;
+    color: white;
+  }
+
+  a {
+    color: white;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  html, body {
+    background-color: white;
+    color: #00F;
+  }
+
+  a {
+    color: #00F;
+  }
+}
