@@ -7,7 +7,7 @@
 		"uuidString": "8F80F55E-0588-40B4-91C4-C61A43F8D5B8"
 		}
 	],
-"creatorBuild": "31934",
+"creatorBuild": "32186",
 "files": {
 	"/.editorconfig": {
 		"cB": 0,
@@ -223,6 +223,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/connor-j-mcclure-hd.png": {
+		"ft": 32768,
+		"iS": 26705,
+		"oA": 0,
+		"oAP": "/avatar/connor-j-mcclure-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/connor-j-mcclure.png": {
+		"ft": 32768,
+		"iS": 2765,
+		"oA": 0,
+		"oAP": "/avatar/connor-j-mcclure.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/avatar/dave-kouliche-hd.png": {
 		"ft": 32768,
 		"iS": 21112,
@@ -399,6 +421,50 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/ludovic-dury-hd.png": {
+		"ft": 32768,
+		"iS": 27354,
+		"oA": 0,
+		"oAP": "/avatar/ludovic-dury-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/ludovic-dury.png": {
+		"ft": 32768,
+		"iS": 2374,
+		"oA": 0,
+		"oAP": "/avatar/ludovic-dury.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/melanie-le-duc-hd.png": {
+		"ft": 32768,
+		"iS": 34583,
+		"oA": 0,
+		"oAP": "/avatar/melanie-le-duc-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/melanie-le-duc.png": {
+		"ft": 32768,
+		"iS": 3048,
+		"oA": 0,
+		"oAP": "/avatar/melanie-le-duc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/avatar/quentin-richard-hd.png": {
 		"ft": 32768,
 		"iS": 33063,
@@ -553,6 +619,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/thomas-lescan-du-plessix-hd.png": {
+		"ft": 32768,
+		"iS": 25504,
+		"oA": 0,
+		"oAP": "/avatar/thomas-lescan-du-plessix-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/thomas-lescan-du-plessix.png": {
+		"ft": 32768,
+		"iS": 2693,
+		"oA": 0,
+		"oAP": "/avatar/thomas-lescan-du-plessix.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/avatar/yann-boucaud-hd.png": {
 		"ft": 32768,
 		"iS": 11024,
@@ -569,6 +657,28 @@
 		"iS": 1321,
 		"oA": 0,
 		"oAP": "/avatar/yann-boucaud.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/yann-grosjean-hd.png": {
+		"ft": 32768,
+		"iS": 23462,
+		"oA": 0,
+		"oAP": "/avatar/yann-grosjean-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/yann-grosjean.png": {
+		"ft": 32768,
+		"iS": 2221,
+		"oA": 0,
+		"oAP": "/avatar/yann-grosjean.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -597,14 +707,14 @@
 		"aP": 1,
 		"bl": 1,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/main.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
 		},
 	"/css/normalize.css": {
 		"aP": 1,
@@ -804,14 +914,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/icone/icone.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/icone/icone.zip",
-		"oF": 0
-		},
 	"/icone/kairos-clu-txt-hd.png": {
 		"ft": 32768,
 		"iS": 20422,
@@ -949,6 +1051,72 @@
 		"iS": 29236,
 		"oA": 0,
 		"oAP": "/icone/squeezer-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-smiley-hd.png": {
+		"ft": 32768,
+		"iS": 29290,
+		"oA": 0,
+		"oAP": "/icone/squeezer-smiley-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-smiley.png": {
+		"ft": 32768,
+		"iS": 3140,
+		"oA": 0,
+		"oAP": "/icone/squeezer-smiley.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-smyle-hd.png": {
+		"ft": 32768,
+		"iS": 12017,
+		"oA": 0,
+		"oAP": "/icone/squeezer-smyle-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-smyle.png": {
+		"ft": 32768,
+		"iS": 2115,
+		"oA": 0,
+		"oAP": "/icone/squeezer-smyle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-square-hd.png": {
+		"ft": 32768,
+		"iS": 17765,
+		"oA": 0,
+		"oAP": "/icone/squeezer-square-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-square.png": {
+		"ft": 32768,
+		"iS": 2021,
+		"oA": 0,
+		"oAP": "/icone/squeezer-square.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1557,6 +1725,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-case-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"default-param-last": {
 			"active": 0,
 			"optionString": ""
@@ -1612,6 +1784,10 @@
 		"global-require": {
 			"active": 0,
 			"optionString": ""
+			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
 			},
 		"guard-for-in": {
 			"active": 0,
@@ -1789,6 +1965,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -1814,6 +1994,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -1957,6 +2141,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-loss-of-precision": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-magic-numbers": {
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
@@ -2073,6 +2261,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-restricted-exports": {
+			"active": 0,
+			"optionString": "{'restrictedNamedExports': []}"
+			},
 		"no-restricted-globals": {
 			"active": 0,
 			"optionString": "'event', 'fdescribe'"
@@ -2115,6 +2307,10 @@
 			},
 		"no-sequences": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-setter-return": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-shadow": {
@@ -2212,6 +2408,10 @@
 		"no-use-before-define": {
 			"active": 0,
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-backreference": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-useless-call": {
 			"active": 0,
@@ -2320,6 +2520,10 @@
 		"prefer-destructuring": {
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-named-capture-group": {
 			"active": 0,
@@ -3017,13 +3221,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
+		"compilerType": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,
